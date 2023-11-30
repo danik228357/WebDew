@@ -68,7 +68,7 @@ li{
     /*padding: 10px;*/
   }
 .hero{
-    background-image: url('images/hero.jpeg');
+    background-image: url('hero.jpeg');
     color: white;
     text-align: center;
     display: flex;
